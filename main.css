@@ -699,22 +699,22 @@ z-index: 1;
 }
 
 #some-fact {
-background-image: url(../example/parallax/some-fact.jpg);
+background-image: url(https://cdn.rawgit.com/JhonCando/Image/master/example/parallax/some-fact.jpg);
 }
 #testimonials {
-background-image: url(../example/parallax/testimonials.jpg);
+background-image: url(https://cdn.rawgit.com/JhonCando/Image/master/example/parallax/testimonials.jpg);
 }
 #subscribe {
-background-image: url(../example/parallax/subscribe.jpg);
+background-image: url(https://cdn.rawgit.com/JhonCando/Image/master/example/parallax/subscribe.jpg);
 }
 #skills {
-background-image: url(../example/parallax/skills.jpg);
+background-image: url(https://cdn.rawgit.com/JhonCando/Image/master/example/parallax/skills.jpg);
 }
 
 
 
 .dark_section.bg_image, .darkgrey_section.bg_image{
-background-image: url(../img/bg_color_section.png);
+background-image: url(https://cdn.rawgit.com/JhonCando/Image/master/img/bg_color_section.png);
 }
 /*light*/
 .light_section, [class*="_section"] .light_section{
@@ -3240,7 +3240,7 @@ height: 80px;
 position: absolute;
 left: 50%;
 top: 50%;
-background: url(../img/preloader.gif) no-repeat 50% 50% transparent;
+background: url(https://cdn.rawgit.com/JhonCando/Image/master/img/preloader.gif) no-repeat 50% 50% transparent;
 margin:-40px 0 0 -40px;
 }
 
@@ -3349,7 +3349,7 @@ color:#27e0ff;
 }
 /* mouse grab icon */
 .grabbing { 
-cursor:url(../img/grabbing.png) 8 8, move;
+cursor:url(https://cdn.rawgit.com/JhonCando/Image/master/img/grabbing.png) 8 8, move;
 }
 
 /* fix */
@@ -3470,7 +3470,7 @@ color: #fff;
 /* preloading images */
 .owl-item.loading{
     min-height: 150px;
-    background: url(../img/AjaxLoader.gif) no-repeat center center
+    background: url(https://cdn.rawgit.com/JhonCando/Image/master/img/AjaxLoader.gif) no-repeat center center
 }
 
 
@@ -3504,7 +3504,7 @@ min-height: 60px;
 }
 
 .elastislide-wrapper.elastislide-loading {
-background-image: url(../img/loading.gif);
+background-image: url(https://cdn.rawgit.com/JhonCando/Image/master/img/loading.gif);
 background-repeat: no-repeat;
 background-position: center center;
 }
@@ -3574,7 +3574,7 @@ max-width: 100%;
 
 .elastislide-wrapper nav span {
 position: absolute;
-background: #ddd url(../img/nav.png) no-repeat 4px 3px;
+background: #ddd url(https://cdn.rawgit.com/JhonCando/Image/master/img/nav.png) no-repeat 4px 3px;
 width: 23px;
 height: 23px;
 border-radius: 50%;
@@ -3676,7 +3676,7 @@ width: 100%;
 
 .bx-wrapper .bx-loading {
 min-height: 50px;
-background: url(../img/bx_loader.gif) center center no-repeat #fff;
+background: url(https://cdn.rawgit.com/JhonCando/Image/master/img/bx_loader.gif) center center no-repeat #fff;
 height: 100%;
 width: 100%;
 position: absolute;
@@ -3767,7 +3767,7 @@ text-indent: -9999px;
 width: 10px;
 height: 11px;
 outline: 0;
-background: url(../img/controls.png) -86px -11px no-repeat;
+background: url(https://cdn.rawgit.com/JhonCando/Image/master/img/controls.png) -86px -11px no-repeat;
 margin: 0 3px;
 }
 
@@ -3782,7 +3782,7 @@ text-indent: -9999px;
 width: 9px;
 height: 11px;
 outline: 0;
-background: url(../img/controls.png) -86px -44px no-repeat;
+background: url(https://cdn.rawgit.com/JhonCando/Image/master/img/controls.png) -86px -44px no-repeat;
 margin: 0 3px;
 }
 
@@ -3892,7 +3892,7 @@ padding: 10px;
 
 .fs_loader{
 	width:100%; height:400px;
-	background:url(../img/fs.spinner.gif) center center no-repeat transparent;
+	background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/fs.spinner.gif) center center no-repeat transparent;
 }
 
 /** CONTROLS **/
@@ -3976,14 +3976,14 @@ letter-spacing: -2px;
 
 /*bx-slider*/
 .bx-controls-direction .bx-prev {
-    background: url(../example/bx-prev.png) no-repeat; 
+    background: url(https://cdn.rawgit.com/JhonCando/Image/master/example/bx-prev.png) no-repeat; 
     height: 45px;
     width: 27px;
     float: left;
    
 }
 .bx-controls-direction .bx-next {
-    background: url(../example/bx-next.png) no-repeat; 
+    background: url(https://cdn.rawgit.com/JhonCando/Image/master/example/bx-next.png) no-repeat; 
     height: 45px;
     width: 27px;
     float: right;
@@ -4836,23 +4836,23 @@ a.socialico-skype:hover.monochrome:before {background-color:#fff !important; bor
 
 
 /*** prettyPhoto ***/
-div.facebook .pp_expand{background:url(../img/prettyPhoto/facebook/sprite.png) -31px -26px no-repeat;cursor:pointer}
-div.facebook .pp_expand:hover{background:url(../img/prettyPhoto/facebook/sprite.png) -31px -47px no-repeat;cursor:pointer}
-div.facebook .pp_contract{background:url(../img/prettyPhoto/facebook/sprite.png) 0 -26px no-repeat;cursor:pointer}
-div.facebook .pp_contract:hover{background:url(../img/prettyPhoto/facebook/sprite.png) 0 -47px no-repeat;cursor:pointer}
-div.facebook .pp_close{width:22px;height:22px;background:url(../img/prettyPhoto/facebook/sprite.png) -1px -1px no-repeat;cursor:pointer;z-index:3000;}
+div.facebook .pp_expand{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/facebook/sprite.png) -31px -26px no-repeat;cursor:pointer}
+div.facebook .pp_expand:hover{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/facebook/sprite.png) -31px -47px no-repeat;cursor:pointer}
+div.facebook .pp_contract{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/facebook/sprite.png) 0 -26px no-repeat;cursor:pointer}
+div.facebook .pp_contract:hover{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/facebook/sprite.png) 0 -47px no-repeat;cursor:pointer}
+div.facebook .pp_close{width:22px;height:22px;background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/facebook/sprite.png) -1px -1px no-repeat;cursor:pointer;z-index:3000;}
 div.facebook .pp_description{margin:0 37px 0 0}
-div.facebook .pp_loaderIcon{background:url(../img/prettyPhoto/facebook/loader.gif) center center no-repeat}
-div.facebook .pp_arrow_previous{background:url(../img/prettyPhoto/facebook/sprite.png) 0 -71px no-repeat;height:22px;margin-top:0;width:22px}
+div.facebook .pp_loaderIcon{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/facebook/loader.gif) center center no-repeat}
+div.facebook .pp_arrow_previous{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/facebook/sprite.png) 0 -71px no-repeat;height:22px;margin-top:0;width:22px}
 div.facebook .pp_arrow_previous.disabled{background-position:0 -96px;cursor:default}
-div.facebook .pp_arrow_next{background:url(../img/prettyPhoto/facebook/sprite.png) -32px -71px no-repeat;height:22px;margin-top:0;width:22px}
+div.facebook .pp_arrow_next{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/facebook/sprite.png) -32px -71px no-repeat;height:22px;margin-top:0;width:22px}
 div.facebook .pp_arrow_next.disabled{background-position:-32px -96px;cursor:default}
 div.facebook .pp_nav{margin-top:0}
 div.facebook .pp_nav p{font-size:15px;padding:0 3px 0 4px; margin-top: -2px;}
-div.facebook .pp_nav .pp_play{background:url(../img/prettyPhoto/facebook/sprite.png) -1px -123px no-repeat;height:22px;width:22px}
-div.facebook .pp_nav .pp_pause{background:url(../img/prettyPhoto/facebook/sprite.png) -32px -123px no-repeat;height:22px;width:22px}
-div.facebook .pp_next:hover{background:url(../img/prettyPhoto/facebook/btnNext.png) center right no-repeat;cursor:pointer}
-div.facebook .pp_previous:hover{background:url(../img/prettyPhoto/facebook/btnPrevious.png) center left no-repeat;cursor:pointer}
+div.facebook .pp_nav .pp_play{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/facebook/sprite.png) -1px -123px no-repeat;height:22px;width:22px}
+div.facebook .pp_nav .pp_pause{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/facebook/sprite.png) -32px -123px no-repeat;height:22px;width:22px}
+div.facebook .pp_next:hover{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/facebook/btnNext.png) center right no-repeat;cursor:pointer}
+div.facebook .pp_previous:hover{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/facebook/btnPrevious.png) center left no-repeat;cursor:pointer}
 div.pp_pic_holder a:focus{outline:none}
 div.pp_overlay{background:#000;display:none;left:0;position:absolute;top:0;width:100%;z-index:9500}
 div.pp_pic_holder{display:none;position:absolute;width:100px;z-index:10000}
@@ -4877,10 +4877,10 @@ a.pp_arrow_previous,a.pp_arrow_next{display:block;float:left;height:15px;margin-
 .pp_gallery ul a{border:1px rgba(0,0,0,0.5) solid;display:block;float:left;height:33px;overflow:hidden}
 .pp_gallery ul a img{border:0}
 .pp_gallery li{display:block;float:left;margin:0 5px 0 0;padding:0}
-.pp_gallery li.default a{background:url(../img/prettyPhoto/facebook/default_thumbnail.gif) 0 0 no-repeat;display:block;height:33px;width:50px}
+.pp_gallery li.default a{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/facebook/default_thumbnail.gif) 0 0 no-repeat;display:block;height:33px;width:50px}
 .pp_gallery .pp_arrow_previous,.pp_gallery .pp_arrow_next{margin-top:7px!important}
-a.pp_next{background:url(../img/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:right;height:100%;text-indent:-10000px;width:49%; -webkit-transition: none; -moz-transition: none; -o-transition: none; -ms-transition: none; transition: none;}
-a.pp_previous{background:url(../img/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:left;height:100%;text-indent:-10000px;width:49%;-webkit-transition: none; -moz-transition: none; -o-transition: none; -ms-transition: none; transition: none;}
+a.pp_next{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:right;height:100%;text-indent:-10000px;width:49%; -webkit-transition: none; -moz-transition: none; -o-transition: none; -ms-transition: none; transition: none;}
+a.pp_previous{background:url(https://cdn.rawgit.com/JhonCando/Image/master/img/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:left;height:100%;text-indent:-10000px;width:49%;-webkit-transition: none; -moz-transition: none; -o-transition: none; -ms-transition: none; transition: none;}
 a.pp_expand,a.pp_contract{cursor:pointer;display:none;height:20px;position:absolute;right:30px;text-indent:-10000px;top:10px;width:20px;z-index:20000}
 a.pp_close{position:absolute;right:30px;top:7px;display:block;line-height:22px;text-indent:-10000px}
 .pp_loaderIcon{display:block;height:24px;left:50%;position:absolute;top:50%;width:24px;margin:-12px 0 0 -12px}
